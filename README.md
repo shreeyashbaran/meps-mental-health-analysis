@@ -2,7 +2,7 @@
 
 **Data Analyst Portfolio Project** — Data merging • cleaning • feature engineering • EDA • insight storytelling
 
-## What this project does (30-second scan)
+## What this project does (Quick scan)
 Using U.S. **MEPS 2019** data, I built an analysis-ready dataset for individuals linked to **Depressive Episode (ICD-10: F32)** and explored how depression indicators vary by:
 - **Region & gender**
 - **Age groups**
